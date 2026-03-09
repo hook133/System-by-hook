@@ -1,16 +1,3 @@
-# System-by-hook#  Discord Bot - دليل الإعدادات
-
-##  حقوق البرمجة
-
-### المبرمج
-- **الاسم**: HOOK
-- **الحقوق**: جميع حقوق البرمجة محفوظة لـ HOOK
-
-### الحقوق
-- جميع حقوق هذا البوت محفوظة لـ **HOOK**
-- **ThailandCodes** - جميع الحقوق محفوظة
-
----
 
 ##  نظرة عامة
 هذا البوت يحتوي على أنظمة متعددة مثل نظام XP، نظام العملات، التذاكر، الحماية، والمزيد. هذا الدليل يشرح كل إعداد في ملف `config.json`.
@@ -19,7 +6,7 @@
 
 ##  الإعدادات الأساسية
 
-### `token`
+### `BpOTxKVS3dDIpdwjpSWhTQwB49HgffOi`
 - **الوصف**: توكن البوت
 - **كيفية الحصول عليه**: من [Discord Developer Portal](https://discord.com/developers/applications)
 - **مثال**: `"MTQ2MTY4NjQ0NTgzNTE2MTcyNg.GVdXqt.0HDOVXmvbxP-R-51U2eHe83UVFJh6frE-LRAQg"`
